@@ -1,0 +1,49 @@
+line,line_name,object_class,oc_name,budget
+L-100,Clinical Services,11.1,Compensation of employees,2420.0
+L-100,Clinical Services,11.2,Other personnel expenses,422.0
+L-100,Clinical Services,12.1,Travel and transportation of persons,4378.0
+L-100,Clinical Services,13.1,Equipment and other capital assets,4836.0
+L-100,Clinical Services,25.0,Research and development,3455.0
+L-100,Clinical Services,31.0,"Rental of buildings, machinery, and equipment",304.0
+L-100,Clinical Services,33.0,"Grants, subsidies, and contributions",4636.0
+L-100,Clinical Services,95.0,Other miscellaneous expenses,3109.0
+L-200,Outpatient Care,11.1,Compensation of employees,1905.0
+L-200,Outpatient Care,11.2,Other personnel expenses,1582.0
+L-200,Outpatient Care,12.1,Travel and transportation of persons,2882.0
+L-200,Outpatient Care,13.1,Equipment and other capital assets,2526.0
+L-200,Outpatient Care,25.0,Research and development,1546.0
+L-200,Outpatient Care,31.0,"Rental of buildings, machinery, and equipment",4086.0
+L-200,Outpatient Care,33.0,"Grants, subsidies, and contributions",3823.0
+L-200,Outpatient Care,95.0,Other miscellaneous expenses,263.0
+L-300,Inpatient Care,11.1,Compensation of employees,4776.0
+L-300,Inpatient Care,11.2,Other personnel expenses,2516.0
+L-300,Inpatient Care,12.1,Travel and transportation of persons,2176.0
+L-300,Inpatient Care,13.1,Equipment and other capital assets,4370.0
+L-300,Inpatient Care,25.0,Research and development,3479.0
+L-300,Inpatient Care,31.0,"Rental of buildings, machinery, and equipment",430.0
+L-300,Inpatient Care,33.0,"Grants, subsidies, and contributions",979.0
+L-300,Inpatient Care,95.0,Other miscellaneous expenses,2693.0
+L-400,Pharmacy Operations,11.1,Compensation of employees,1668.0
+L-400,Pharmacy Operations,11.2,Other personnel expenses,4156.0
+L-400,Pharmacy Operations,12.1,Travel and transportation of persons,2000.0
+L-400,Pharmacy Operations,13.1,Equipment and other capital assets,325.0
+L-400,Pharmacy Operations,25.0,Research and development,3933.0
+L-400,Pharmacy Operations,31.0,"Rental of buildings, machinery, and equipment",3905.0
+L-400,Pharmacy Operations,33.0,"Grants, subsidies, and contributions",4840.0
+L-400,Pharmacy Operations,95.0,Other miscellaneous expenses,1575.0
+L-500,Patient Support,11.1,Compensation of employees,4119.0
+L-500,Patient Support,11.2,Other personnel expenses,994.0
+L-500,Patient Support,12.1,Travel and transportation of persons,1068.0
+L-500,Patient Support,13.1,Equipment and other capital assets,2883.0
+L-500,Patient Support,25.0,Research and development,1645.0
+L-500,Patient Support,31.0,"Rental of buildings, machinery, and equipment",1732.0
+L-500,Patient Support,33.0,"Grants, subsidies, and contributions",2789.0
+L-500,Patient Support,95.0,Other miscellaneous expenses,2360.0
+L-600,Administrative & General,11.1,Compensation of employees,4364.0
+L-600,Administrative & General,11.2,Other personnel expenses,4466.0
+L-600,Administrative & General,12.1,Travel and transportation of persons,2862.0
+L-600,Administrative & General,13.1,Equipment and other capital assets,2186.0
+L-600,Administrative & General,25.0,Research and development,3465.0
+L-600,Administrative & General,31.0,"Rental of buildings, machinery, and equipment",2921.0
+L-600,Administrative & General,33.0,"Grants, subsidies, and contributions",3812.0
+L-600,Administrative & General,95.0,Other miscellaneous expenses,3159.0

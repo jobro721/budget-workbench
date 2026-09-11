@@ -1,0 +1,72 @@
+file,fund_control_point,object_class,description,period,amount
+A,FCP-001,31.0,"Rental of buildings, machinery, and equipment",FY2025-P03,63.0
+A,FCP-001,33.0,"Grants, subsidies, and contributions",FY2025-P10,324.0
+A,FCP-001,11.2,Other personnel expenses,FY2025-P09,422.0
+A,FCP-001,95.0,Other miscellaneous expenses,FY2025-P12,632.0
+A,FCP-002,11.1,Compensation of employees,FY2025-P03,871.0
+A,FCP-002,12.1,Travel and transportation of persons,FY2025-P05,780.0
+A,FCP-002,11.1,Compensation of employees,FY2025-P03,528.0
+A,FCP-003,31.0,"Rental of buildings, machinery, and equipment",FY2025-P08,104.0
+A,FCP-003,95.0,Other miscellaneous expenses,FY2025-P02,611.0
+A,FCP-003,31.0,"Rental of buildings, machinery, and equipment",FY2025-P08,713.0
+A,FCP-003,31.0,"Rental of buildings, machinery, and equipment",FY2025-P06,357.0
+A,FCP-004,11.2,Other personnel expenses,FY2025-P03,324.0
+A,FCP-004,31.0,"Rental of buildings, machinery, and equipment",FY2025-P12,547.0
+A,FCP-004,95.0,Other miscellaneous expenses,FY2025-P12,357.0
+A,FCP-005,31.0,"Rental of buildings, machinery, and equipment",FY2025-P09,275.0
+A,FCP-005,13.1,Equipment and other capital assets,FY2025-P01,738.0
+A,FCP-006,11.1,Compensation of employees,FY2025-P09,677.0
+A,FCP-006,25.0,Research and development,FY2025-P07,105.0
+A,FCP-006,31.0,"Rental of buildings, machinery, and equipment",FY2025-P05,249.0
+A,FCP-007,12.1,Travel and transportation of persons,FY2025-P02,509.0
+A,FCP-007,95.0,Other miscellaneous expenses,FY2025-P05,880.0
+A,FCP-008,31.0,"Rental of buildings, machinery, and equipment",FY2025-P06,818.0
+A,FCP-008,11.2,Other personnel expenses,FY2025-P06,345.0
+A,FCP-009,95.0,Other miscellaneous expenses,FY2025-P09,82.0
+A,FCP-009,11.1,Compensation of employees,FY2025-P03,763.0
+A,FCP-009,25.0,Research and development,FY2025-P10,560.0
+A,FCP-009,11.1,Compensation of employees,FY2025-P06,116.0
+A,FCP-010,95.0,Other miscellaneous expenses,FY2025-P12,527.0
+A,FCP-010,11.2,Other personnel expenses,FY2025-P11,552.0
+A,FCP-011,33.0,"Grants, subsidies, and contributions",FY2025-P07,377.0
+A,FCP-011,33.0,"Grants, subsidies, and contributions",FY2025-P09,490.0
+A,FCP-011,13.1,Equipment and other capital assets,FY2025-P08,672.0
+A,FCP-012,25.0,Research and development,FY2025-P09,639.0
+A,FCP-012,11.1,Compensation of employees,FY2025-P08,857.0
+A,FCP-012,11.1,Compensation of employees,FY2025-P11,802.0
+A,FCP-012,13.1,Equipment and other capital assets,FY2025-P07,182.0
+B,FCP-001,31.0,"Rental of buildings, machinery, and equipment",,3343.0
+B,FCP-001,33.0,"Grants, subsidies, and contributions",,324.0
+B,FCP-001,11.2,Other personnel expenses,,422.0
+B,FCP-001,95.0,Other miscellaneous expenses,,632.0
+B,FCP-002,11.1,Compensation of employees,,871.0
+B,FCP-002,12.1,Travel and transportation of persons,,780.0
+B,FCP-002,11.1,Compensation of employees,,528.0
+B,FCP-003,31.0,"Rental of buildings, machinery, and equipment",,104.0
+B,FCP-003,95.0,Other miscellaneous expenses,,611.0
+B,FCP-003,31.0,"Rental of buildings, machinery, and equipment",,94841.0
+B,FCP-003,31.0,"Rental of buildings, machinery, and equipment",,357.0
+B,FCP-004,11.2,Other personnel expenses,,324.0
+B,FCP-004,31.0,"Rental of buildings, machinery, and equipment",,547.0
+B,FCP-004,95.0,Other miscellaneous expenses,,357.0
+B,FCP-005,31.0,"Rental of buildings, machinery, and equipment",,275.0
+B,FCP-005,13.1,Equipment and other capital assets,,2420.0
+B,FCP-006,11.1,Compensation of employees,,677.0
+B,FCP-006,31.0,"Rental of buildings, machinery, and equipment",,249.0
+B,FCP-007,12.1,Travel and transportation of persons,,509.0
+B,FCP-007,95.0,Other miscellaneous expenses,,880.0
+B,FCP-008,31.0,"Rental of buildings, machinery, and equipment",,818.0
+B,FCP-008,11.2,Other personnel expenses,,345.0
+B,FCP-009,95.0,Other miscellaneous expenses,,82.0
+B,FCP-009,11.1,Compensation of employees,,763.0
+B,FCP-009,25.0,Research and development,,560.0
+B,FCP-009,11.1,Compensation of employees,,116.0
+B,FCP-010,95.0,Other miscellaneous expenses,,527.0
+B,FCP-010,11.2,Other personnel expenses,,552.0
+B,FCP-011,33.0,"Grants, subsidies, and contributions",,377.0
+B,FCP-011,33.0,"Grants, subsidies, and contributions",,490.0
+B,FCP-011,13.1,Equipment and other capital assets,,672.0
+B,FCP-012,25.0,Research and development,,639.0
+B,FCP-012,11.1,Compensation of employees,,857.0
+B,FCP-012,11.1,Compensation of employees,,802.0
+B,FCP-012,13.1,Equipment and other capital assets,,182.0
